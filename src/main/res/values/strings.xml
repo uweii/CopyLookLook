@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">copyLooklook</string>
+    <string name="ic_open">打开</string>
+    <string name="ic_close">关闭</string>
+</resources>

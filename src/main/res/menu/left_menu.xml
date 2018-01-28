@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <group android:id="@+id/group1">
+    <item android:id="@+id/zhihu"
+     android:icon="@drawable/zhihu"
+     android:title="知乎日报"/>
+    <item android:id="@+id/wangyi"
+        android:icon="@drawable/wangyi"
+        android:title="网易头条"/>
+    <item android:id="@+id/meiri"
+        android:icon="@drawable/look2"
+        android:title="每日看看"/>
+ </group>
+    <item android:id="@+id/myblog"
+        android:icon="@drawable/look2"
+        android:title="关于我"/>
+</menu>
